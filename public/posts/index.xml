@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on questions near death</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on questions near death</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Aug 2022 00:51:06 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5</title>
+      <link>/posts/5/</link>
+      <pubDate>Thu, 25 Aug 2022 00:51:06 -0400</pubDate>
+      
+      <guid>/posts/5/</guid>
+      <description>Today&amp;rsquo;s date is: %a %d %b
+Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
+&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 </description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>/posts/4/</link>
+      <pubDate>Wed, 24 Aug 2022 23:09:22 -0400</pubDate>
+      
+      <guid>/posts/4/</guid>
+      <description>Note: at time of initial save, this was a draft. draft=true
+But, now it&amp;rsquo;s live draft=false
+So, at the time we&amp;rsquo;d have to see if it renders in the preview on dev wtih flag -D
+But now we expect all this text to render. At least as soon as we commit it, and maybe then cloudflare has a cronjob that only checks occasionally.</description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>/posts/3/</link>
+      <pubDate>Wed, 24 Aug 2022 23:03:42 -0400</pubDate>
+      
+      <guid>/posts/3/</guid>
+      <description>Hemmingway would say less.</description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>/posts/2/</link>
+      <pubDate>Wed, 24 Aug 2022 23:03:12 -0400</pubDate>
+      
+      <guid>/posts/2/</guid>
+      <description>What would Melville say&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>/posts/1/</link>
+      <pubDate>Wed, 24 Aug 2022 23:01:26 -0400</pubDate>
+      
+      <guid>/posts/1/</guid>
+      <description>Questions:
+Is there a markdown code for date or time? </description>
+    </item>
+    
+  </channel>
+</rss>

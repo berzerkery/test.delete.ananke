@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>questions near the end</title>
+    <link>//localhost:53016/</link>
+    <description>Recent content on questions near the end</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2022 23:03:42 -0400</lastBuildDate><atom:link href="//localhost:53016/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3</title>
+      <link>//localhost:53016/posts/3/</link>
+      <pubDate>Wed, 24 Aug 2022 23:03:42 -0400</pubDate>
+      
+      <guid>//localhost:53016/posts/3/</guid>
+      <description>Hemmingway would say less.</description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>//localhost:53016/posts/2/</link>
+      <pubDate>Wed, 24 Aug 2022 23:03:12 -0400</pubDate>
+      
+      <guid>//localhost:53016/posts/2/</guid>
+      <description>What would Melville say&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>//localhost:53016/posts/1/</link>
+      <pubDate>Wed, 24 Aug 2022 23:01:26 -0400</pubDate>
+      
+      <guid>//localhost:53016/posts/1/</guid>
+      <description>Questions:
+Is there a markdown code for date or time? </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'questions near death'
+theme = "ananke"
